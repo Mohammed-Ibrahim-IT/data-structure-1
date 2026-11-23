@@ -1,0 +1,8 @@
+Course: CS212 - Data Structures
+Project Title: Warehouse Receiving Dock
+Registered Practical Section: [ENTER SECTION]
+Team ID / Number: [ENTER IF ASSIGNED]
+Student Name: [ENTER YOUR FULL NAME]
+Student University ID: [ENTER YOUR ID]
+Team Members: [ENTER ALL TEAM MEMBERS' FULL NAMES AND IDS]
+Project URL: [PASTE THE SAME SHARED GITHUB OR ONEDRIVE LINK]

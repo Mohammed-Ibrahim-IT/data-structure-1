@@ -1,0 +1,313 @@
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Waiting queue: 0 (empty: yes)
+Stock list: 0 (empty: yes)
+Shipment BST: 0 (empty: yes)
+Scan history: 0 (empty: yes)
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: No pallets to receive.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Shipment ID: Product name: Quantity: Pallet registered and queued.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Shipment ID: Product name: Quantity: Pallet registered and queued.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: ID: 10 | Name: Nails | Quantity: 7 | Location: Not assigned
+ID: 20 | Name: Bolts | Quantity: 5 | Location: Not assigned
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: ID: 20 | Name: Bolts | Quantity: 5 | Location: Not assigned
+ID: 10 | Name: Nails | Quantity: 7 | Location: Not assigned
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: ID: 20 | Name: Bolts | Quantity: 5 | Location: Not assigned
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Storage location: Pallet received, stock updated, and scan recorded.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Exact product name: ID: 20 | Name: Bolts | Quantity: 5 | Location: A1
+Matches: 1
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Shipment ID to update: New product name: New quantity: Current shipment record updated. Completed scan history remains a historical snapshot.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Shipment ID to delete: Shipment removed from index and active queue/stock. Historical scans are retained.
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Shipment ID: ID: 20 | Name: BoltsNew | Quantity: 9 | Location: A1
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Waiting queue: 0 (empty: yes)
+Stock list: 1 (empty: no)
+Shipment BST: 1 (empty: no)
+Scan history: 1 (empty: no)
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: ID: 20 | Name: Bolts | Quantity: 5 | Location: A1
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: Removed historical scan: ID: 20 | Name: Bolts | Quantity: 5 | Location: A1
+
+===== Warehouse Receiving Dock =====
+1. Register incoming pallet
+2. Receive next pallet
+3. Show waiting queue
+4. Show completed scans (Stack)
+5. Show stock (Linked List)
+6. Search shipment by ID (BST)
+7. Show shipments inorder (BST)
+8. Show shipments preorder (BST)
+9. Update shipment name/quantity
+10. Delete shipment
+11. Search received stock by name (Linear Search)
+12. Show counts and empty states
+13. Peek next waiting pallet
+14. Peek most recent scan
+15. Pop most recent scan from history
+0. Exit
+Choose: 

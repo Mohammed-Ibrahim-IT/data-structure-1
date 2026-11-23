@@ -1,0 +1,16 @@
+PLACE YOUR OWN FINAL PROJECT REPORT IN THIS FOLDER.
+Accepted format: PDF or DOCX.
+
+Required report sections in order:
+1. Cover Page
+2. Problem Definition
+3. Project Objectives
+4. Data Structures Used
+5. System Features
+6. Implementation Explanation
+7. Testing
+8. Complexity Analysis
+9. Team Contributions
+10. Conclusion
+
+Use the FINAL tested code when describing the implementation.

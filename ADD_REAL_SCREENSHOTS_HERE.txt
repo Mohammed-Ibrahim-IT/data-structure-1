@@ -1,0 +1,3 @@
+Add screenshots from your own final project execution here.
+Suggested evidence: main menu; registration; duplicate ID handling; FIFO receipt; stack history; linked list records; BST search and traversals; error handling; sorting/searching algorithm.
+Do not submit placeholder images as real evidence.
